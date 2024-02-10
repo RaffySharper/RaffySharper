@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="" alt="raffysharper" /> </p>
+
 
 - 🔭 I’m currently working on **school work**
 
