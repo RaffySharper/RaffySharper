@@ -1,7 +1,7 @@
 ![MasterHead](FWakC9nXoAMZMC-.jpg)
 <h1 align="center">Hi 👋, I'm Raffy Sharper</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
-img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FWakC9nXoAMZMC-?format=jpg&name=large"
+
 
 
 <p align="left"> <img src="" alt="raffysharper" /> </p>
